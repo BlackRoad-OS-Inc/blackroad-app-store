@@ -44,3 +44,11 @@ web/
 ## License
 
 Copyright 2026 BlackRoad OS, Inc. All rights reserved.
+
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [BlackStream](https://github.com/blackboxprogramming/BlackStream) | Full-stack streaming platform |
+| [BlackRoad Apps](https://github.com/blackboxprogramming/blackroad-apps) | Web application suite |
+| [BlackRoad Web](https://github.com/blackboxprogramming/blackroad-web) | Web platform and services |

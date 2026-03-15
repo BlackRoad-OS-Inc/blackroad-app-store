@@ -1,54 +1,41 @@
-# BlackRoad App Store
+<div align="center">
 
-[![PWA](https://img.shields.io/badge/PWA-50_apps-FF6B2B.svg)](https://apps.blackroad.io)
-[![0% Commission](https://img.shields.io/badge/commission-0%25-00D4FF.svg)](https://blackroad.io)
-[![HTML/JS](https://img.shields.io/badge/HTML%2FJS-marketplace-E34F26.svg)](https://blackroad.io)
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
+# blackroad-app-store
 
+**BlackRoad App Store — Zero-commission PWA marketplace with 50 Progressive Web Apps, developer CLI, analytics dashboard, and monetization tools.**
 
-Web-based app marketplace for the BlackRoad OS ecosystem. Built with Next.js 15.
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
 
-## Quick Start
+</div>
 
-```bash
-cd web && npm install && npm run dev
-```
+<div align="center">
+<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
+</div>
 
-Open [http://localhost:3100](http://localhost:3100).
+---
 
-## Stack
+## Overview
 
-- **Framework:** Next.js 15 (React 18)
-- **Deploy:** Cloudflare Pages
-- **Distribution:** PWA, direct download, sideload
-
-## Features
-
-- Instant app publishing (no review gate)
-- Developer-first: 5% platform fee (vs 30% industry standard)
-- Progressive Web App support for cross-platform install
-- Dark theme UI with BlackRoad branding
-
-## Project Structure
-
-```
-web/
-  app/
-    layout.js    # Root layout
-    page.js      # Store homepage
-  package.json   # Dependencies
-  next.config.js # Next.js config
-  wrangler.toml  # Cloudflare Pages deployment
-```
+BlackRoad App Store — Zero-commission PWA marketplace with 50 Progressive Web Apps, developer CLI, analytics dashboard, and monetization tools.
 
 ## License
 
-Copyright 2026 BlackRoad OS, Inc. All rights reserved.
+**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
 
-## Related Projects
+Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
 
-| Project | Description |
-|---------|-------------|
-| [BlackStream](https://github.com/blackboxprogramming/BlackStream) | Full-stack streaming platform |
-| [BlackRoad Apps](https://github.com/blackboxprogramming/blackroad-apps) | Web application suite |
-| [BlackRoad Web](https://github.com/blackboxprogramming/blackroad-web) | Web platform and services |
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+<div align="center">
+
+**BlackRoad OS — Pave Tomorrow.**
+
+[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
+
+</div>

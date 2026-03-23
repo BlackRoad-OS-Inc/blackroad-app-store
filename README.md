@@ -1,5 +1,13 @@
 # blackroad-app-store
 
+> BlackRoad App Store — Zero-commission PWA marketplace with 50 Progressive Web Apps, developer CLI, analytics dashboard, and monetization tools.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroad-app-store
+
 BlackRoad App Store — Zero-commission PWA marketplace with 50 Progressive Web Apps, developer CLI, analytics dashboard, and monetization tools.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
